@@ -1,0 +1,192 @@
+[12:17:28] [main/INFO] [GradleStart]: userProperties: {}
+[12:17:28] [main/INFO] [GradleStart]: assetsDir: C:\Users\samue\.gradle\caches\retro_futura_gradle\assets
+[12:17:28] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[12:17:28] [main/INFO] [GradleStart]: accessToken: 0
+[12:17:28] [main/INFO] [GradleStart]: version: 1.7.10
+[12:17:28] [main/INFO] [GradleStart]: username: Developer
+[12:17:28] [main/INFO] [GradleStart]: Extra: [--gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc]
+[12:17:28] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\samue\.gradle\caches\retro_futura_gradle\assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Developer, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[12:17:28] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:17:28] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:17:28] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[12:17:28] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[12:25:38] [main/INFO] [GradleStart]: userProperties: {}
+[12:25:38] [main/INFO] [GradleStart]: assetsDir: C:\Users\samue\.gradle\caches\retro_futura_gradle\assets
+[12:25:38] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[12:25:38] [main/INFO] [GradleStart]: accessToken: 0
+[12:25:38] [main/INFO] [GradleStart]: version: 1.7.10
+[12:25:38] [main/INFO] [GradleStart]: username: Developer
+[12:25:38] [main/INFO] [GradleStart]: Extra: [--gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc]
+[12:25:38] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\samue\.gradle\caches\retro_futura_gradle\assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Developer, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[12:25:38] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:25:38] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:25:38] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[12:25:38] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[12:47:17] [main/INFO] [GradleStart]: userProperties: {}
+[12:47:17] [main/INFO] [GradleStart]: assetsDir: C:\Users\samue\.gradle\caches\retro_futura_gradle\assets
+[12:47:17] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[12:47:17] [main/INFO] [GradleStart]: accessToken: 0
+[12:47:17] [main/INFO] [GradleStart]: version: 1.7.10
+[12:47:17] [main/INFO] [GradleStart]: username: Developer
+[12:47:17] [main/INFO] [GradleStart]: Extra: [--gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc]
+[12:47:17] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\samue\.gradle\caches\retro_futura_gradle\assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Developer, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[12:47:17] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:47:17] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:47:17] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[12:47:17] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[12:48:03] [main/INFO] [GradleStart]: userProperties: {}
+[12:48:03] [main/INFO] [GradleStart]: assetsDir: C:\Users\samue\.gradle\caches\retro_futura_gradle\assets
+[12:48:03] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[12:48:03] [main/INFO] [GradleStart]: accessToken: 0
+[12:48:03] [main/INFO] [GradleStart]: version: 1.7.10
+[12:48:03] [main/INFO] [GradleStart]: username: Developer
+[12:48:03] [main/INFO] [GradleStart]: Extra: [--gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc]
+[12:48:03] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\samue\.gradle\caches\retro_futura_gradle\assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Developer, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[12:48:03] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:48:03] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:48:03] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[12:48:03] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:00:30] [main/INFO] [GradleStart]: userProperties: {}
+[13:00:30] [main/INFO] [GradleStart]: assetsDir: C:\Users\samue\.gradle\caches\retro_futura_gradle\assets
+[13:00:30] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[13:00:30] [main/INFO] [GradleStart]: accessToken: 0
+[13:00:30] [main/INFO] [GradleStart]: version: 1.7.10
+[13:00:30] [main/INFO] [GradleStart]: username: Developer
+[13:00:30] [main/INFO] [GradleStart]: Extra: [--gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc]
+[13:00:30] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\samue\.gradle\caches\retro_futura_gradle\assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Developer, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:00:30] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:00:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:00:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:00:30] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:03:56] [main/INFO] [GradleStart]: userProperties: {}
+[13:03:56] [main/INFO] [GradleStart]: assetsDir: C:\Users\samue\.gradle\caches\retro_futura_gradle\assets
+[13:03:56] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[13:03:56] [main/INFO] [GradleStart]: accessToken: 0
+[13:03:56] [main/INFO] [GradleStart]: version: 1.7.10
+[13:03:56] [main/INFO] [GradleStart]: username: Developer
+[13:03:56] [main/INFO] [GradleStart]: Extra: [--gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc]
+[13:03:56] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\samue\.gradle\caches\retro_futura_gradle\assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Developer, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:03:56] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:03:56] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:03:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:03:56] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:19:18] [main/INFO] [GradleStart]: userProperties: {}
+[13:19:18] [main/INFO] [GradleStart]: assetsDir: C:\Users\samue\.gradle\caches\retro_futura_gradle\assets
+[13:19:18] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[13:19:18] [main/INFO] [GradleStart]: accessToken: 0
+[13:19:18] [main/INFO] [GradleStart]: version: 1.7.10
+[13:19:18] [main/INFO] [GradleStart]: username: Developer
+[13:19:18] [main/INFO] [GradleStart]: Extra: [--gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc]
+[13:19:18] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\samue\.gradle\caches\retro_futura_gradle\assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Developer, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:19:18] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:19:18] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:19:18] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:19:18] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:21:50] [main/INFO] [GradleStart]: userProperties: {}
+[13:21:50] [main/INFO] [GradleStart]: assetsDir: C:\Users\samue\.gradle\caches\retro_futura_gradle\assets
+[13:21:50] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[13:21:50] [main/INFO] [GradleStart]: accessToken: 0
+[13:21:50] [main/INFO] [GradleStart]: version: 1.7.10
+[13:21:50] [main/INFO] [GradleStart]: username: Developer
+[13:21:50] [main/INFO] [GradleStart]: Extra: [--gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc]
+[13:21:50] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\samue\.gradle\caches\retro_futura_gradle\assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Developer, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:21:50] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:21:50] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:21:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:21:50] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:25:08] [main/INFO] [GradleStart]: Extra: [nogui]
+[13:25:08] [main/INFO] [GradleStart]: Running with arguments: [--tweakClass, cpw.mods.fml.common.launcher.FMLServerTweaker, nogui, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:25:08] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[13:25:08] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[13:25:08] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:25:08] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[13:26:54] [main/INFO] [GradleStart]: userProperties: {}
+[13:26:54] [main/INFO] [GradleStart]: assetsDir: C:\Users\samue\.gradle\caches\retro_futura_gradle\assets
+[13:26:54] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[13:26:54] [main/INFO] [GradleStart]: accessToken: 0
+[13:26:54] [main/INFO] [GradleStart]: version: 1.7.10
+[13:26:54] [main/INFO] [GradleStart]: username: Developer
+[13:26:54] [main/INFO] [GradleStart]: Extra: [--gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc]
+[13:26:54] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\samue\.gradle\caches\retro_futura_gradle\assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Developer, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:26:54] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:26:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:26:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:26:54] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:31:35] [main/INFO] [GradleStart]: Extra: [nogui]
+[13:31:35] [main/INFO] [GradleStart]: Running with arguments: [--tweakClass, cpw.mods.fml.common.launcher.FMLServerTweaker, nogui, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:31:35] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[13:31:35] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[13:31:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:31:35] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[13:31:43] [main/INFO] [GradleStart]: userProperties: {}
+[13:31:44] [main/INFO] [GradleStart]: assetsDir: C:\Users\samue\.gradle\caches\retro_futura_gradle\assets
+[13:31:44] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[13:31:44] [main/INFO] [GradleStart]: accessToken: 0
+[13:31:44] [main/INFO] [GradleStart]: version: 1.7.10
+[13:31:44] [main/INFO] [GradleStart]: username: Developer
+[13:31:44] [main/INFO] [GradleStart]: Extra: [--gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc]
+[13:31:44] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\samue\.gradle\caches\retro_futura_gradle\assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Developer, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:31:44] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:31:44] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:31:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:31:44] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:34:51] [main/INFO] [GradleStart]: Extra: [nogui]
+[13:34:51] [main/INFO] [GradleStart]: Running with arguments: [--tweakClass, cpw.mods.fml.common.launcher.FMLServerTweaker, nogui, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:34:51] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[13:34:51] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[13:34:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:34:51] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[13:34:59] [main/INFO] [GradleStart]: userProperties: {}
+[13:34:59] [main/INFO] [GradleStart]: assetsDir: C:\Users\samue\.gradle\caches\retro_futura_gradle\assets
+[13:34:59] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[13:34:59] [main/INFO] [GradleStart]: accessToken: 0
+[13:34:59] [main/INFO] [GradleStart]: version: 1.7.10
+[13:34:59] [main/INFO] [GradleStart]: username: Developer
+[13:34:59] [main/INFO] [GradleStart]: Extra: [--gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc]
+[13:34:59] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\samue\.gradle\caches\retro_futura_gradle\assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Developer, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:34:59] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:34:59] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:34:59] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:34:59] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:38:05] [main/INFO] [GradleStart]: userProperties: {}
+[13:38:05] [main/INFO] [GradleStart]: assetsDir: C:\Users\samue\.gradle\caches\retro_futura_gradle\assets
+[13:38:05] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[13:38:05] [main/INFO] [GradleStart]: accessToken: 0
+[13:38:05] [main/INFO] [GradleStart]: version: 1.7.10
+[13:38:05] [main/INFO] [GradleStart]: username: Developer
+[13:38:05] [main/INFO] [GradleStart]: Extra: [--gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc]
+[13:38:05] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\samue\.gradle\caches\retro_futura_gradle\assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Developer, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:38:05] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:38:05] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:38:05] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:38:05] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:39:16] [main/INFO] [GradleStart]: Extra: [nogui]
+[13:39:16] [main/INFO] [GradleStart]: Running with arguments: [--tweakClass, cpw.mods.fml.common.launcher.FMLServerTweaker, nogui, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:39:16] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[13:39:16] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLServerTweaker
+[13:39:16] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:39:16] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLServerTweaker
+[13:41:01] [main/INFO] [GradleStart]: userProperties: {}
+[13:41:01] [main/INFO] [GradleStart]: assetsDir: C:\Users\samue\.gradle\caches\retro_futura_gradle\assets
+[13:41:01] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[13:41:01] [main/INFO] [GradleStart]: accessToken: 0
+[13:41:01] [main/INFO] [GradleStart]: version: 1.7.10
+[13:41:01] [main/INFO] [GradleStart]: username: Developer
+[13:41:01] [main/INFO] [GradleStart]: Extra: [--gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc]
+[13:41:01] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\samue\.gradle\caches\retro_futura_gradle\assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Developer, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:41:01] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:41:01] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:41:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:41:01] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:06:58] [main/INFO] [GradleStart]: userProperties: {}
+[14:06:58] [main/INFO] [GradleStart]: assetsDir: C:\Users\samue\.gradle\caches\retro_futura_gradle\assets
+[14:06:58] [main/INFO] [GradleStart]: assetIndex: 1.7.10
+[14:06:58] [main/INFO] [GradleStart]: accessToken: 0
+[14:06:58] [main/INFO] [GradleStart]: version: 1.7.10
+[14:06:58] [main/INFO] [GradleStart]: username: Developer
+[14:06:58] [main/INFO] [GradleStart]: Extra: [--gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc]
+[14:06:58] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:\Users\samue\.gradle\caches\retro_futura_gradle\assets, --assetIndex, 1.7.10, --accessToken, {REDACTED}, --version, 1.7.10, --username, Developer, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --gameDir, C:\Documents\Minecraft Modding\Command Blocker\run, --uuid, 31c4910d-9b69-4725-8969-9ed53ac8a7dc, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:06:58] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:06:58] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:06:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:06:58] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker

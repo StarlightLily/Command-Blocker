@@ -1,0 +1,119 @@
+[13:38:06] [main/INFO]: Setting user: Developer
+[13:38:07] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:38:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Command Blocker
+[13:38:12] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[13:38:12] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[13:38:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Command Blocker
+[13:38:12] [Sound Library Loader/INFO]: Sound engine started
+[13:38:12] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:38:13] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:38:13] [Sound Library Loader/INFO]: Sound engine started
+[13:38:15] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[13:38:15] [Server thread/INFO]: Generating keypair
+[13:38:16] [Server thread/INFO]: Preparing start region for level 0
+[13:38:16] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:38:17] [Server thread/INFO]: Developer[local:E:95bb53b4] logged in with entity id 376 at (190.3652704029901, 64.0, 216.95744290437025)
+[13:38:17] [Server thread/INFO]: Developer joined the game
+[13:38:17] [pool-2-thread-1/WARN]: Couldn't look up profile properties for com.mojang.authlib.GameProfile@7807bf41[id=31c4910d-9b69-4725-8969-9ed53ac8a7dc,name=Developer,properties={},legacy=false]
+com.mojang.authlib.exceptions.AuthenticationUnavailableException: Cannot contact authentication server
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:75) ~[YggdrasilAuthenticationService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillGameProfile(YggdrasilMinecraftSessionService.java:175) [YggdrasilMinecraftSessionService.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:59) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService$1.load(YggdrasilMinecraftSessionService.java:56) [YggdrasilMinecraftSessionService$1.class:?]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3524) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2317) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2280) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2195) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3934) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache.getOrLoad(LocalCache.java:3938) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.get(LocalCache.java:4821) [guava-17.0.jar:?]
+	at com.google.common.cache.LocalCache$LocalLoadingCache.getUnchecked(LocalCache.java:4827) [guava-17.0.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilMinecraftSessionService.fillProfileProperties(YggdrasilMinecraftSessionService.java:165) [YggdrasilMinecraftSessionService.class:?]
+	at net.minecraft.client.resources.SkinManager$3.run(SkinManager.java:133) [SkinManager$3.class:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511) [?:1.8.0_462]
+	at java.util.concurrent.FutureTask.run(FutureTask.java:266) [?:1.8.0_462]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149) [?:1.8.0_462]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624) [?:1.8.0_462]
+	at java.lang.Thread.run(Thread.java:750) [?:1.8.0_462]
+Caused by: com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:176) ~[ReflectiveTypeAdapterFactory$Adapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:803) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:768) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:717) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:689) ~[Gson.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:55) ~[YggdrasilAuthenticationService.class:?]
+	... 18 more
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 1 column 1
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:374) ~[JsonReader.class:?]
+	at com.google.gson.internal.bind.ReflectiveTypeAdapterFactory$Adapter.read(ReflectiveTypeAdapterFactory.java:165) ~[ReflectiveTypeAdapterFactory$Adapter.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:803) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:768) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:717) ~[Gson.class:?]
+	at com.google.gson.Gson.fromJson(Gson.java:689) ~[Gson.class:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService.makeRequest(YggdrasilAuthenticationService.java:55) ~[YggdrasilAuthenticationService.class:?]
+	... 18 more
+[13:38:33] [Server thread/INFO]: Developer has just earned the achievement [Taking Inventory]
+[13:38:33] [Client thread/INFO]: [CHAT] Developer has just earned the achievement [Taking Inventory]
+[13:38:37] [Client thread/INFO]: [CHAT] You do not have permission to use this command
+[13:38:41] [Client thread/INFO]: Warning: Clientside chunk ticking took 138 ms
+[13:38:42] [Server thread/INFO]: Saving and pausing game...
+[13:38:42] [Server thread/INFO]: Saving chunks for level 'No Perms'/Overworld
+[13:38:42] [Server thread/INFO]: Saving chunks for level 'No Perms'/Nether
+[13:38:42] [Server thread/INFO]: Saving chunks for level 'No Perms'/The End
+[13:38:43] [Server thread/INFO]: Stopping server
+[13:38:43] [Server thread/INFO]: Saving players
+[13:38:43] [Server thread/INFO]: Saving worlds
+[13:38:43] [Server thread/INFO]: Saving chunks for level 'No Perms'/Overworld
+[13:38:43] [Server thread/INFO]: Saving chunks for level 'No Perms'/Nether
+[13:38:43] [Server thread/INFO]: Saving chunks for level 'No Perms'/The End
+[13:38:46] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[13:38:46] [Server thread/INFO]: Generating keypair
+[13:38:46] [Server thread/INFO]: Preparing start region for level 0
+[13:38:46] [Server thread/INFO]: Changing view distance to 12, from 10
+[13:38:46] [Server thread/INFO]: Developer[local:E:61b52b96] logged in with entity id 1772 at (-146.41985870014182, 76.52007844301079, 270.2771260290922)
+[13:38:46] [Server thread/INFO]: Developer joined the game
+[13:38:50] [Server thread/INFO]: [Developer: Set the time to 0]
+[13:38:50] [Client thread/INFO]: [CHAT] Set the time to 0
+[13:38:52] [Client thread/INFO]: [CHAT] /give <player> <item> [amount] [data] [dataTag]
+[13:38:58] [Server thread/INFO]: Saving and pausing game...
+[13:38:58] [Server thread/INFO]: Saving chunks for level 'Testing'/Overworld
+[13:38:58] [Server thread/INFO]: Saving chunks for level 'Testing'/Nether
+[13:38:58] [Server thread/INFO]: Saving chunks for level 'Testing'/The End
+[13:39:08] [Server thread/INFO]: Saving and pausing game...
+[13:39:08] [Server thread/INFO]: Saving chunks for level 'Testing'/Overworld
+[13:39:08] [Server thread/INFO]: Saving chunks for level 'Testing'/Nether
+[13:39:08] [Server thread/INFO]: Saving chunks for level 'Testing'/The End
+[13:39:09] [Server thread/INFO]: Stopping server
+[13:39:09] [Server thread/INFO]: Saving players
+[13:39:09] [Server thread/INFO]: Saving worlds
+[13:39:09] [Server thread/INFO]: Saving chunks for level 'Testing'/Overworld
+[13:39:09] [Server thread/INFO]: Saving chunks for level 'Testing'/Nether
+[13:39:09] [Server thread/INFO]: Saving chunks for level 'Testing'/The End
+[13:39:23] [Client thread/ERROR]: Can't ping localhost: Internal Exception: io.netty.handler.codec.DecoderException: com.google.gson.JsonSyntaxException: Expected status to be a JsonObject, was "Ser...g."
+[13:39:25] [Client thread/INFO]: Connecting to localhost, 25565
+[13:39:29] [Client thread/INFO]: [CHAT] Unknown command. Try /help for a list of commands
+[13:39:31] [Client thread/INFO]: [CHAT] You do not have permission to use this command
+[13:39:34] [Client thread/INFO]: Warning: Clientside chunk ticking took 259 ms
+[13:39:40] [Client thread/INFO]: Warning: Clientside chunk ticking took 169 ms
+[13:39:49] [Client thread/INFO]: [CHAT] [Server: Opped Developer]
+[13:39:53] [Client thread/INFO]: [CHAT] /give <player> <item> [amount] [data] [dataTag]
+[13:39:55] [Client thread/INFO]: Warning: Clientside chunk ticking took 165 ms
+[13:40:08] [Client thread/INFO]: Warning: Clientside chunk ticking took 121 ms
+[13:40:34] [Client thread/INFO]: Stopping!
+ help, type "help" or "?"
+[13:39:25] [Server thread/INFO]: Developer[/127.0.0.1:56700] logged in with entity id 445 at (228.34239157099975, 69.0, 183.16576269157747)
+[13:39:25] [Server thread/INFO]: Developer joined the game
+[13:39:49] [Server thread/INFO]: Opped Developer
+[13:40:34] [Server thread/INFO]: Developer lost connection: TranslatableComponent{key='disconnect.genericReason', args=[Internal Exception: java.io.IOException: An existing connection was forcibly closed by the remote host], siblings=[], style=Style{hasParent=false, color=null, bold=null, italic=null, underlined=null, obfuscated=null, clickEvent=null, hoverEvent=null}}
+[13:40:34] [Server thread/INFO]: Developer left the game
+[13:41:03] [main/INFO]: Setting user: Developer
+[13:41:03] [Client thread/INFO]: LWJGL Version: 2.9.4
+[13:41:08] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Command Blocker
+[13:41:08] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[13:41:08] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[13:41:09] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Command Blocker
+[13:41:09] [Sound Library Loader/INFO]: Sound engine started
+[13:41:09] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[13:41:09] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[13:41:10] [Sound Library Loader/INFO]: Sound engine started
+[13:42:43] [Client thread/INFO]: Stopping!
