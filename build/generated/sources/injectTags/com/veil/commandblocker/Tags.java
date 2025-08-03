@@ -5,5 +5,5 @@ public class Tags {
     private Tags() {}
 
     /** Auto-generated tag from RetroFuturaGradle */
-    public static final String VERSION = "5a2c7fe";
+    public static final String VERSION = "7f87e70-main+7f87e7010b-dirty";
 }
